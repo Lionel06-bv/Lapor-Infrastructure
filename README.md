@@ -29,11 +29,3 @@ Road damage such as potholes, cracks, broken street lighting, damaged traffic si
 - `admin-web/`: the React admin dashboard for verifying and managing reports
 - `backend/`: the API and database layer
 
-## Team (Kelompok 5)
-
-- Bonaventura Jonathan T.: mobile app UI in Flutter, agile process support
-- Collin Smile: system architecture and tech stack design, backend development with NestJS and Prisma
-- Felix Delvin: requirement gathering questionnaire, Figma prototyping, report writing
-- **Lionel Benedict Vincentino**: problem statement and introduction writing, admin dashboard UI design in Figma, testing documentation, presentation materials
-- Tristan Putra Wilau: project timeline and agile coordination, admin dashboard UI in React and Vite, public survey design, Figma design
-
