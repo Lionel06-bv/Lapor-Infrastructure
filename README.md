@@ -37,6 +37,3 @@ Road damage such as potholes, cracks, broken street lighting, damaged traffic si
 - **Lionel Benedict Vincentino**: problem statement and introduction writing, admin dashboard UI design in Figma, testing documentation, presentation materials
 - Tristan Putra Wilau: project timeline and agile coordination, admin dashboard UI in React and Vite, public survey design, Figma design
 
-## About this fork
-
-Forked from [bonahandsome5G/Lapor-Infrastructure](https://github.com/bonahandsome5G/Lapor-Infrastructure) for portfolio purposes. All credit for the original work goes to the team listed above.
